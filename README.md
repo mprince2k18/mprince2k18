@@ -10,3 +10,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mprince2k18&show_icons=true&locale=en" alt="mprince2k18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mprince2k18&" alt="mprince2k18" /></p>
+<a href="https://app.daily.dev/mprince2k22"><img src="https://api.daily.dev/devcards/d96f4bbf644a4b5ba060fa01105568ad.png?r=rb8" width="400" alt="Mohammad Prince's Dev Card"/></a>
